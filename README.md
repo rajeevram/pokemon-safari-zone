@@ -5,12 +5,12 @@ A recreation of Pokémon HeartGold's Safari Zone. Final project completed in a g
 ## Stories
 The GameSpecification.pdf contains a list of all required functionalities. Our additional functionalities are as follows:
 
-*[X] A wild Pokémon battled can be instantiated in the Town, not just in the Safari Zone
-*[X] The Trainer can pick up a Fishing Rod to use in the Safari Zone to catch water-type Pokémon
-*[X] A Trainer battle can be instantiated in the Town
-*[X] There is a Merchant who sells battle items in exchange for earned money
-*[X] The Trainer can pick up and ride around on a Bicycle
-*[X] There are a variety of NPCs that give hints about gameplay and win conditions
+* [X] A wild Pokémon battled can be instantiated in the Town, not just in the Safari Zone
+* [X] The Trainer can pick up a Fishing Rod to use in the Safari Zone to catch water-type Pokémon
+* [X] A Trainer battle can be instantiated in the Town
+* [X] There is a Merchant who sells battle items in exchange for earned money
+* [X] The Trainer can pick up and ride around on a Bicycle
+* [X] There are a variety of NPCs that give hints about gameplay and win conditions
 
 ## Walkthrough
 The following is a brief video walkthrough of some of the main functionalities:
