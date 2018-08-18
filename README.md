@@ -4,7 +4,8 @@ Opening Screen:
 <img src='https://imgur.com/35L1XIy.gif' title='Opening Screen' width='' alt='Pokemon Introduction' />
 
 Pokémon Town:
-<img src='https://imgur.com/8Ef4dVF.gif' title='Pokemon Town' width='' alt='View One' />
+<img src='https://imgur.com/HwK7iWN.gif title='Pokemon Town' width='' alt='View One' />
+https://imgur.com/8Ef4dVF.gif
 
 Safari Zone:
 <img src='https://imgur.com/HF14KfC.gif' title='SafariZone' width='' alt='View Two' />
