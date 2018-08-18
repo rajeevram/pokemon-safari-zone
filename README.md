@@ -2,8 +2,6 @@
 
 <img src='https://imgur.com/35L1XIy.gif' title='Opening Screen' width='' alt='Pokemon Introduction' />
 
-<a href="https://imgur.com/35L1XIy.gif" target="_blank">Opening Screen</a>
-
 [Opening Screen](https://imgur.com/35L1XIy.gif)
 
 [Pokémon Town](https://imgur.com/8Ef4dVF.gif)
