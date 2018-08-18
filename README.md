@@ -22,7 +22,7 @@ The GameSpecification.pdf contains a list of all required functionalities. Our a
 * [X] There are a variety of NPCs that give hints about gameplay and win conditions
 
 ## Walkthrough
-The following is a brief video walkthrough of some of the main functionalities: (to do upload video)
+The following is a brief video walkthrough of some of the main functionalities and architectures: https://youtu.be/ECiD_t9_bF4
 
 ## Structure & Design
 Please refer to the following documents in the doc folder: AnalysisDesignArtifacts.docx, GameDesignLogicOverview.docx, UMLClassDiagram.png, UML SequenceDiagram.png
