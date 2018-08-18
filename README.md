@@ -1,14 +1,12 @@
 # Pokémon HeartGold Safari Zone
 
-Opening Screen:
 <img src='https://imgur.com/35L1XIy.gif' title='Opening Screen' width='' alt='Pokemon Introduction' />
 
-Pokémon Town:
-<img src='https://imgur.com/HwK7iWN.gif' title='Pokemon Town' width='' alt='View One' />
-https://imgur.com/8Ef4dVF.gif
+[Opening Screen](https://imgur.com/35L1XIy.gif)
 
-Safari Zone:
-<img src='https://imgur.com/HF14KfC.gif' title='SafariZone' width='' alt='View Two' />
+[Pokémon Town](https://imgur.com/8Ef4dVF.gif)
+
+[Safari Zone](https://imgur.com/HF14KfC.gif)
 
 ## Overview
 A recreation of Pokémon HeartGold's Safari Zone. Final project completed in a group of four with Agile. Please refer to the GameSpefication.pdf in the doc folder for more information.
